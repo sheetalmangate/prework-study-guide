@@ -14,11 +14,11 @@
       },
       {
         "question": "What is the correct HTML for referring to an external style sheet?",
-        "answer": 2,
+        "answer": 3,
         "options": [
-          "&lt;style src=\"mystyle.css\"&gt;",
-          "&lt;stylesheet&gt;mystyle.css&lt;/stylesheet&gt;",
-          "&lt;link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\"&gt;"
+          "<style src=\"mystyle.css\">",
+          "<stylesheet>mystyle.css</stylesheet>",
+          "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">"
         ]
       }
     ]

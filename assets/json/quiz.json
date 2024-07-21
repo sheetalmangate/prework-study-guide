@@ -5,7 +5,7 @@
       {
         "question": "What does CSS stand for?",
         "answer": 2,
-        "option": [
+        "options": [
           "Computer Style Sheet",
           "Cascading Style Sheet",
           "Colorful Style Sheet",
@@ -15,7 +15,7 @@
       {
         "question": "What is the correct HTML for referring to an external style sheet?",
         "answer": 2,
-        "option": [
+        "options": [
           "&lt;style src=\"mystyle.css\"&gt;",
           "&lt;stylesheet&gt;mystyle.css&lt;/stylesheet&gt;",
           "&lt;link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\"&gt;"
